@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Cache","public/images/icon48.png","panel.html",(function(e){console.log("React Panel created")}));
